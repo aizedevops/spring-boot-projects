@@ -3,6 +3,7 @@
 This project contains a Spring Boot API and Angular front end. 
 
 Angular Front End - https://github.com/aizedevops/spring-boot-projects/tree/main/spring-boot-modules/spring-boot-angular/src/main/js/application
+
 Java Springboot API - https://github.com/aizedevops/spring-boot-projects/tree/main/spring-boot-modules/spring-boot-angular
 
 
