@@ -2,6 +2,10 @@
 
 This project contains a Spring Boot API and Angular front end. 
 
+Angular Front End - https://github.com/aizedevops/spring-boot-projects/tree/main/spring-boot-modules/spring-boot-angular/src/main/js/application
+Java Springboot API - https://github.com/aizedevops/spring-boot-projects/tree/main/spring-boot-modules/spring-boot-angular
+
+
 ### Relevant Articles:
 
 - [Building a Web Application with Spring Boot and Angular](https://www.baeldung.com/spring-boot-angular-web)
@@ -9,8 +13,9 @@ This project contains a Spring Boot API and Angular front end.
 ### Prerequisites
 
 - Java JDK 16.0.1
-- Node.js 
+- Node 14.7.*
 - Angular CLI 1.7.4
+- Python v3.10.*  (added to path)
 
 ## Spring Boot API
 
@@ -38,10 +43,6 @@ Run `npm install` in the angular directory
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-### Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
 ### Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
@@ -49,11 +50,3 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ### Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-### Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-### Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
